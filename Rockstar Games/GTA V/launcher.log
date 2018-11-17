@@ -1,0 +1,21 @@
+[2018-11-14 17:23:55.532] [DISPLAY] Using DPI 120
+[2018-11-14 17:23:55.995] [DISPLAY] File version 10000:5d50001 (for D:\Steam\steamapps\common\Grand Theft Auto V\GTA5.exe)
+[2018-11-14 17:23:56.051] [DISPLAY] File version 10002:40001 (for C:\Program Files\Rockstar Games\Social Club\socialclub.dll)
+[2018-11-14 17:23:56.102] [DISPLAY] File version 10000:5d50000 (for D:\Steam\steamapps\common\Grand Theft Auto V\GTAVLauncher.exe)
+[2018-11-14 17:23:56.116] [DISPLAY] Version: |1.0.1493.1|1.2.4.1|1.0.1493.0|FSP
+[2018-11-14 17:23:56.595] [DISPLAY] OS version: Major: 6, Minor: 2, Build: 9200, Platform: 2
+[2018-11-14 17:23:57.545] [DISPLAY] Steam initialized successfully
+[2018-11-14 17:23:57.549] [DISPLAY] 	Steam id: 76561198232923300
+[2018-11-14 17:23:57.553] [DISPLAY] 	Steam offline: FALSE
+[2018-11-14 17:23:57.558] [DISPLAY] 	Steam persona: nickdsb
+[2018-11-14 17:23:57.580] [DISPLAY] Social Club initializing...
+[2018-11-14 17:23:58.044] [DISPLAY] Attempting to create device...
+[2018-11-14 17:23:58.047] [DISPLAY] Attempting to initialise DX9 COM object...
+[2018-11-14 17:23:58.079] [DISPLAY] Window size: 862 x 620
+[2018-11-14 17:23:58.123] [DISPLAY] Successfully created DX Device!
+[2018-11-14 17:24:01.330] [DISPLAY] Geo: CN
+[2018-11-14 17:24:09.114] [DISPLAY] Launching game...
+[2018-11-14 17:24:09.118] [DISPLAY] (path: D:\Steam\steamapps\common\Grand Theft Auto V\GTA5.exe cmdline: "D:\Steam\steamapps\common\Grand Theft Auto V\GTA5.exe")
+[2018-11-14 19:03:33.309] [ ERROR ] GameComm: ReadFile failed.
+[2018-11-14 19:03:36.613] [DISPLAY] Game exited with code 0x0
+[2018-11-14 19:03:38.391] [DISPLAY] Uninitializing.
